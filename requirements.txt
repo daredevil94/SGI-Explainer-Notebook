@@ -1,0 +1,13 @@
+unidecode==1.3.2
+networkx==2.6.3
+Cython
+igraph
+community
+python-louvain
+unidecode==1.3.2
+Cython==0.29.25
+igraph==0.9.8
+fa2==0.3.5
+networkx==2.6.3
+community
+python-louvain
